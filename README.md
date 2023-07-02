@@ -24,7 +24,7 @@ LinkedIn is the world’s largest professional network on the internet. You can 
 
 ## Installation
 
-Install of Tailwind CSS
+Installation of Tailwind CSS
 
 ```bash
   Step 1:- open Terminal and run (npx tailwindcss init).
